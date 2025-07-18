@@ -1,7 +1,9 @@
 # 🍪 Cookies Sales Report – Power BI Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the PBIX File]([<https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies%20sales.pbix>)**  
+**📥 [Download the PBIX File]
+(<https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies%20sales.pbix>)**  
+
 
 ---
 
