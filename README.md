@@ -8,7 +8,7 @@
 ## 📈 Dashboard Preview
 
 ### 🔹 Page 1 – Sales Overview
-![Page 1](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/cookies_page1.jpg?raw=true)
+![Page 1](https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies1.PNG)
 
 ### 🔹 Page 2 – Geographic & Customer Analysis
 ![Page 2](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/cookies_page2.jpg?raw=true)
