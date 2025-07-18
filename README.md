@@ -11,7 +11,7 @@
 ![Page 1](https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies1.PNG)
 
 ### 🔹 Page 2 – Geographic & Customer Analysis
-![Page 2](https://github.com/ahmadyase1234/Cancer-analysis-dashboard-/blob/main/cookies_page2.jpg?raw=true)
+![Page 2](https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies3.PNG)
 
 ### 🔹 Page 3 – KPIs & Filters
 ![Page 3](https://github.com/ahmadyase1234/cookies-dashboard/blob/main/cookies2.PNG)
